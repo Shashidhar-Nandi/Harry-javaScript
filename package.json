@@ -1,0 +1,12 @@
+{
+  "name": "javscript",
+  "version": "1.0.0",
+  "description": "learn about the javascript",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shashidhar",
+  "type" : "module",
+  "license": "ISC"
+}
